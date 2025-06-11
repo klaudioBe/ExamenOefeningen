@@ -1,0 +1,15 @@
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\bin\Debug\net9.0\BloemwinekelProj.exe
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\bin\Debug\net9.0\BloemwinekelProj.deps.json
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\bin\Debug\net9.0\BloemwinekelProj.runtimeconfig.json
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\bin\Debug\net9.0\BloemwinekelProj.dll
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\bin\Debug\net9.0\BloemwinekelProj.pdb
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.AssemblyInfoInputs.cache
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.AssemblyInfo.cs
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.csproj.CoreCompileInputs.cache
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.sourcelink.json
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.dll
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\refint\BloemwinekelProj.dll
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.pdb
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\BloemwinekelProj.genruntimeconfig.cache
+C:\Users\cameu\source\repos\Klaudio\BloemwinekelProj\obj\Debug\net9.0\ref\BloemwinekelProj.dll
